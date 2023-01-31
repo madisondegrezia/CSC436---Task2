@@ -23,11 +23,15 @@ Bonus acceptance criteria:
 <img src="https://user-images.githubusercontent.com/89614960/215662439-dd0b4d82-6391-40f3-8ef7-9646d34c77e5.png" width=60% height=60%>
 The above image shows the addition of two numbers inputted from user.
 
-
 <img src="https://user-images.githubusercontent.com/89614960/215665238-d9a22a2b-4ec8-464d-98cf-47edf28bc6b4.png" width=60% height=60%>
 The above image the multiplication of two numbers inputted from user.
 
 <img src="https://user-images.githubusercontent.com/89614960/215665677-222e2df2-b333-43a7-b545-4866c27e4b72.png" width=60% height=60%>
-The above image shows the alert window that pops up when user does not input any values.
+The above image shows the alert window that pops up when the user does not input any values in the appropriate fields.
+
+<img src="https://user-images.githubusercontent.com/89614960/215665930-37273823-abff-4211-a5c9-bd63cd13a998.png" width=60% height=60%>
+The above image shows the alert window that pops up when the user only inputs a value for one of the numbers.
+
+
 
 
